@@ -10,9 +10,11 @@
 
 Here are some ideas to get you started:
 -->
-
-
 - 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me: kiwhhb1016@gmail.com
 - ⚡ Fun fact: Bed Lover
 
+### Languages & Tools
+- C#/C++
+- Java
+- HTML/CSS/Javascript
