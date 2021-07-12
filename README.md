@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me: kiwhhb1016@gmail.com
-- ⚡ Fun fact: Bed Lover
+- ⚡ Fun fact: There's a rainbow in my profile pic :rainbow:
 
 ### Languages & Tools
 - C#/C++
