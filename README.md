@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: kiwhhb1016@gmail.com
 - ⚡ Fun fact: There's a rainbow in my profile pic :rainbow:
 
